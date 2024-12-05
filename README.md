@@ -16,7 +16,7 @@ Este é um jogo de Sudoku desenvolvido para treinar habilidades de programação
 
 Certifique-se de ter as seguintes ferramentas instaladas:
 
-- **Node.js**: Você pode baixar e instalar o Node.js em [https://nodejs.org/](https://nodejs.org/).
+- **Node.js**:  Você pode baixar e instalar o Node.js em [https://nodejs.org/](https://nodejs.org/).
 - **NPM ou Yarn**: O npm é instalado junto com o Node.js. Ou você pode usar o Yarn.
 
 ### Passos para rodar o projeto
