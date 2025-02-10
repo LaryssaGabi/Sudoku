@@ -1,7 +1,7 @@
 
 # Dev Sudoku Game
 
-Este é um jogo de Sudoku desenvolvido para treinar habilidades de programação e lógica de resolução. O projeto foi criado utilizando **React** e **TypeScript**.
+Este é um jogo de Sudoku desenvolvido para treinar habilidades de programação e lógica de resolução. O projeto foi criado utilizando **React** e **TypeScript**
 
 ## Funcionalidades
 
